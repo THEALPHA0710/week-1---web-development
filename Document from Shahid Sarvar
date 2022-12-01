@@ -4,15 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>list</title>
+    <title>Thank you</title>
 </head>
 <body>
-    <h2>Grocery list</h2>
-    <ul>
-        <li>Bread</li>
-        <li>Eggs</li>
-        <li>Milk</li>
-        <li>Coffee</li>
-    </ul>
+    <p>Thankyou for Visiting</p>
+    <a href="./class2.anchor-Cipher-Schools.html">HOME</a>
 </body>
 </html>
